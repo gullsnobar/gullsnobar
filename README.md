@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&locale=en" alt="gullsnobar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gullsnobar&" alt="gullsnobar" /></p>
-## Hi there 👋
+
 
 <!--
 **gullsnobar/gullsnobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
