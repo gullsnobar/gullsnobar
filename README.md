@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" alt="gullsnobar" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gullsnobar&label=Profile%20views&color=0e75b6&style=flat" alt="gullsnobar" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 💬 Ask me about **react, next js**
 
