@@ -1,4 +1,4 @@
-![Gull Snobar Banner](https://raw.githubusercontent.com/gullsnobar/gullsnobar/main/header.png)
+![Gull Snobar Banner](https://raw.githubusercontent.com/gullsnobar/gullsnobar/main/snobar.png)
 
 
 # Gull Snobar  
