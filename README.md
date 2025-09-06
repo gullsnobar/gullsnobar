@@ -1,7 +1,8 @@
 ![Header](https://raw.githubusercontent.com/gullsnobar/gullsnobar/main/header.png.png)
 
 <h1 align="center">Hi 👋, I'm GULL SNOBAR</h1>
-<h3 align="center">I am a Software Developer specializing in frontend development, with a strong foundation in creating responsive, cross-browser-compatible web applications. Proficient in HTML, CSS, JavaScript, and React, Next.js I thrive in collaborative Agile environments and am passionate about learning new technologies and delivering impactful solutions.</h3>
+<h3 align="center">FullStack Web Developer</h3>
+<p align="center">I am a Software Developer specializing in frontend development, with a strong foundation in creating responsive, cross-browser-compatible web applications. Proficient in HTML, CSS, JavaScript, and React, Next.js I thrive in collaborative Agile environments and am passionate about learning new technologies and delivering impactful solutions.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gullsnobar&label=Profile%20views&color=0e75b6&style=flat" alt="gullsnobar" /> </p>
 
