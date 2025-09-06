@@ -2,7 +2,11 @@
 
 
 # Gull Snobar  
-**Frontend Engineer | React.js | Next.js | TypeScript**
+
+**Web Developer | Frontend Engineer (React, Next.js) | Building Scalable Web Apps | Full-Stack Development (Node.js, Express, MongoDB) | Git/GitHub | AI Tools Enthusiast**  
+
+### AI Tools Expertise  
+Lovable, Cursor, Windsurf, Replit, Trae AI, Claude, Deepseek
 
 ---
 
