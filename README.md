@@ -1,4 +1,5 @@
-![Header](https://raw.githubusercontent.com/gullsnobar/gullsnobar/main/header.png)
+![Gull Snobar Banner](https://raw.githubusercontent.com/gullsnobar/gullsnobar/main/header.png)
+
 
 # Gull Snobar  
 **Frontend Engineer | React.js | Next.js | TypeScript**
