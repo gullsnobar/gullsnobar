@@ -1,52 +1,46 @@
 ![Header](https://raw.githubusercontent.com/gullsnobar/gullsnobar/main/header.png)
 
-### 📫 How to reach me  
-**Email:** gullsnobar07@gmail.com  
-
-### 📄 My Experiences  
-[View Resume](https://drive.google.com/file/d/1CspY9yO3z3iFPxfoew6i8j_TEELanFmX/view?usp=sharing)
-
-### ⚡ Fun fact  
-I enjoy turning complex problems into simple, interactive UI solutions.
+# Gull Snobar  
+**Frontend Engineer | React.js | Next.js | TypeScript**
 
 ---
 
-### 🌐 Connect with me
+## About Me  
+I am a Frontend Engineer passionate about building scalable and responsive web applications.  
+My expertise lies in crafting interactive user interfaces with modern technologies like **React.js, Next.js, and TypeScript** while maintaining clean code and performance optimization.  
+I thrive in collaborative environments and continuously explore emerging tools and frameworks to enhance my development workflow.
+
+---
+
+## Contact  
+- **Email:** gullsnobar07@gmail.com  
+- **Resume:** [View Here](https://drive.google.com/file/d/1CspY9yO3z3iFPxfoew6i8j_TEELanFmX/view?usp=sharing)  
+- **LinkedIn:** [linkedin.com/in/gullsanobar](https://www.linkedin.com/in/gullsanobar/)  
+
+---
+
+## Projects  
+Some highlighted projects demonstrating my skills and problem-solving ability:
+
+- **[LMS Website](https://github.com/gullsnobar/LMS-Website)** – Fully responsive learning platform built with React.js.  
+- **[QuickShop](https://github.com/gullsnobar/QuickShop)** – E-commerce application with cart management and dynamic product display.  
+- **[React Movie App](https://github.com/gullsnobar/React-Movie-App)** – Movie browser using API integration with React.js.  
+- **[Authentication Form](https://github.com/gullsnobar/Authentication-Form)** – Login & signup system with password hashing and session handling.  
+- **[Countries & Capitals Quiz](https://github.com/gullsnobar/Countries-Capitals-Quiz)** – Interactive quiz app with React.js & TypeScript.  
+
+---
+
+## Skills  
+
+**Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, Redux, Tailwind CSS, Sass, Bootstrap, HTML5, CSS3  
+**Backend & Databases:** Node.js, Express.js, MySQL  
+**Tools & Others:** Git, GitHub, Postman, Figma, Bash, Agile methodologies  
+
+---
+
+## GitHub Stats  
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/gullsanobar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/gullsnobar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/snobargull12" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/gull_snobar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
