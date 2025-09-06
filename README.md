@@ -32,9 +32,15 @@ Some highlighted projects demonstrating my skills and problem-solving ability:
 
 ## Skills  
 
-**Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, Redux, Tailwind CSS, Sass, Bootstrap, HTML5, CSS3  
-**Backend & Databases:** Node.js, Express.js, MySQL  
-**Tools & Others:** Git, GitHub, Postman, Figma, Bash, Agile methodologies  
+### Frontend  
+JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, MUI, Tailwind CSS, Sass, Bootstrap, HTML5, CSS3, Figma, Framer Motion  
+
+### Backend  
+Node.js, Express.js, Firebase, MongoDB, Supabase, PostgreSQL  
+
+### Testing & Tools  
+Jest, Postman, GitHub, Jira, Agile Methodologies  
+
 
 ---
 
