@@ -107,21 +107,50 @@ I am a Frontend Engineer skilled in building scalable web applications with Reac
 
 <div align="center">
 
+### My Coding Activity
+
 <table>
   <tr>
-    <td align="center">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=4A8ACC&text_color=555555&icon_color=4A8ACC" alt="GitHub Stats" />
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true" />
     </td>
-    <td align="center">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&theme=vue&hide_border=true&bg_color=00000000&title_color=4A8ACC&text_color=555555" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=gullsnobar&theme=vue&hide_border=true&background=00000000&stroke=4A8ACC&ring=4A8ACC&fire=4A8ACC&currStreakLabel=4A8ACC" alt="GitHub Streak" />
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gullsnobar&background=00000000&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&sideLabels=4F8CC9&currStreakNum=4F8CC9&sideNums=4F8CC9&dates=9f9f9f&hide_border=true" />
     </td>
   </tr>
 </table>
+
+### Language Distribution
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true" alt="Top Languages" />
+  
+  <div style="background: linear-gradient(135deg, #00000000 0%, #0d1117 100%); padding: 15px; border-radius: 10px; min-width: 250px;">
+    <h4 style="color: #4F8CC9; margin-top: 0;">Coding Metrics</h4>
+    <p style="margin: 5px 0; color: #9f9f9f;">
+      <span style="display: inline-block; width: 100px;">Productivity:</span>
+      <span style="color: #4F8CC9;">★★★★☆</span>
+    </p>
+    <p style="margin: 5px 0; color: #9f9f9f;">
+      <span style="display: inline-block; width: 100px;">Consistency:</span>
+      <span style="color: #4F8CC9;">★★★★★</span>
+    </p>
+    <p style="margin: 5px 0; color: #9f9f9f;">
+      <span style="display: inline-block; width: 100px;">Code Quality:</span>
+      <span style="color: #4F8CC9;">★★★★☆</span>
+    </p>
+  </div>
+</div>
+
+### Contribution Insights
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gullsnobar&theme=github-compact&bg_color=00000000&color=4F8CC9&line=4F8CC9&point=4F8CC9&hide_border=true&area=true&area_color=4F8CC9&title_color=4F8CC9" width="100%" alt="Contribution Graph" />
+
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=gullsnobar&theme=gitdimmed&row=1&column=4&no-frame=true&margin-w=5&margin-h=5" alt="Trophy Stats" />
+  </div>
+</div>
 
 </div>
 
