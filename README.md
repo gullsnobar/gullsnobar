@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 AI Tools Expertise
+## AI Tools Expertise
 
 <div align="center">
 
@@ -43,13 +43,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a Frontend Engineer skilled in building scalable web applications with React.js, Next.js, and TypeScript, and experienced in Node.js, Express, and MongoDB for full-stack development. Proficient with Git/GitHub and Agile workflows, I focus on writing clean, performant code and delivering efficient solutions.
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 <div align="center">
 
@@ -87,7 +87,7 @@ I am a Frontend Engineer skilled in building scalable web applications with Reac
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -103,19 +103,19 @@ I am a Frontend Engineer skilled in building scalable web applications with Reac
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <!-- GitHub Stats Cards -->
 <a href="https://github.com/gullsnobar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Gull's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&theme=radical&hide_border=true" alt="Gull's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Gull GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&theme=radical&hide_border=true" alt="Gull Top Languages" />
 </a>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/gullsnobar">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gullsnobar&theme=radical&hide_border=true" alt="Gull's GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gullsnobar&theme=radical&hide_border=true" alt="Gull GitHub Streak" />
 </a>
 
 <!-- GitHub Activity Graph -->
@@ -125,7 +125,7 @@ I am a Frontend Engineer skilled in building scalable web applications with Reac
 
 <!-- Trophy Stats -->
 <a href="https://github.com/gullsnobar">
-  <img src="https://github-profile-trophy.vercel.app/?username=gullsnobar&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="Gull's Trophy Stats" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gullsnobar&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="Gull Trophy Stats" width="100%"/>
 </a>
 
 </div>
@@ -134,7 +134,7 @@ I am a Frontend Engineer skilled in building scalable web applications with Reac
 
 <div align="center">
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gullsanobar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gullsnobar07@gmail.com)
