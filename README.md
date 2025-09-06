@@ -11,9 +11,7 @@ Lovable, Cursor, Windsurf, Replit, Trae AI, Claude, Deepseek
 ---
 
 ## About Me  
-I am a Frontend Engineer passionate about building scalable and responsive web applications.  
-My expertise lies in crafting interactive user interfaces with modern technologies like **React.js, Next.js, and TypeScript** while maintaining clean code and performance optimization.  
-I thrive in collaborative environments and continuously explore emerging tools and frameworks to enhance my development workflow.
+I am a Frontend Engineer skilled in building scalable web applications with React.js, Next.js, and TypeScript, and experienced in Node.js, Express, and MongoDB for full-stack development. Proficient with Git/GitHub and Agile workflows, I focus on writing clean, performant code and delivering efficient solutions.
 
 ---
 
