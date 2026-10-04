@@ -1,89 +1,163 @@
+<!--
+563 contributions in the last year
+-->
+
+<div align="center">
+
 # Gull Snobar
 
-**Associate Software Engineer** · Full-Stack Development · AI-powered Applications
+### Associate Software Engineer · Full-Stack Developer · AI & SaaS
 
-I build full-stack web applications with the MERN stack and TypeScript. I have about 1 year of professional experience and work with AI APIs to add LLM-based features to products. I am also building my skills in Docker, CI/CD, and open-source development.
+Building practical web applications, AI-powered products, and reliable software with modern full-stack technologies.
 
-**Focus:** Full-stack development → AI-powered applications → Docker & CI/CD → DevOps and open source (growing)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gullsnobar&label=PROFILE+VIEWS&color=4F8CC9&style=flat-square" alt="Profile Views" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/gullsanobar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gullsnobar07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://drive.google.com/file/d/1CspY9yO3z3iFPxfoew6i8j_TEELanFmX/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
+
+</div>
 
 ---
 
-## Core Skills
+## About Me
 
-| Area | Technologies |
-|---|---|
-| **Languages** | JavaScript, TypeScript, Python |
-| **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, React Native |
-| **Backend** | Node.js, Express.js, AdonisJS, REST APIs, Authentication, Third-party API integrations |
-| **Databases** | MongoDB, PostgreSQL |
-| **DevOps & Engineering** | Docker, CI/CD, Git, GitHub, Testing, Deployment workflows |
-| **AI & LLM** | AI API integration, Prompt engineering, LLM fundamentals, RAG fundamentals |
+I'm an **Associate Software Engineer** with around **1 year of professional experience**, focused on full-stack web development and AI-powered applications.
+
+I work primarily with the **MERN stack** and have hands-on experience building APIs, integrating third-party services, working with databases, testing applications, and deploying software with Docker.
+
+I'm also expanding into **DevOps, CI/CD, LLMs, and AI engineering**, with recent hands-on learning in prompt engineering, LLM concepts, RAG, and AI integrations.
+
+Currently, I'm interested in building reliable software and contributing to **open-source projects** where I can learn from experienced developers and contribute meaningful work.
 
 ---
 
-## AI and DevOps
+## Technical Skills
 
-| | Working with | Exploring |
-|---|---|---|
-| **AI & LLM** | AI API integration, AI-powered application development | LLM fundamentals, prompt engineering, RAG fundamentals, AI developer tools |
-| **DevOps** | Docker, CI/CD, Git and GitHub workflows, deployment workflows | Cloud deployment, more advanced CI/CD |
+### Languages
+
+`JavaScript` `TypeScript` `Python` `HTML` `CSS`
+
+### Frontend
+
+`React.js` `Next.js` `React Native` `Redux Toolkit` `Tailwind CSS` `Vite`
+
+### Backend
+
+`Node.js` `Express.js` `AdonisJS` `REST APIs`
+
+### Databases
+
+`MongoDB` `PostgreSQL` `Supabase`
+
+### AI & LLM
+
+`LLM Fundamentals` `Prompt Engineering` `RAG` `AI APIs` `Gemini API` `AI Integrations`
+
+### DevOps & Engineering
+
+`Docker` `CI/CD` `Git` `GitHub` `GitHub Actions` `Testing` `Postman`
+
+### Tools & Platforms
+
+`Figma` `Jira` `Firebase` `Vercel` `Render` `Netlify`
 
 ---
 
 ## Featured Projects
 
-- **[OmniCat](https://github.com/gullsnobar/OmniCat)**
-  AI-powered creative SaaS application for Shopify merchants. Shows AI API integration inside a full-stack product.<br>
-  *Stack: React, TypeScript, AdonisJS, PostgreSQL*
+### [OmniCat](https://github.com/gullsnobar/OmniCat)
 
-- **[Healio](https://github.com/gullsnobar/Healio)**
-  Final year project. A mobile health management app with medication management, appointment scheduling, fitness tracking, and AI-powered health features.<br>
-  *Stack: React Native*
+**AI Creative SaaS for Shopify**
 
-- **Multivendor E-Commerce Platform**
-  MERN marketplace with customer, seller, and admin roles, payment integration, product management, and real-time communication.<br>
-  *Stack: MongoDB, Express.js, React, Node.js*
+AI-powered SaaS application built for Shopify merchants, combining AI content generation and e-commerce workflows into one platform.
 
-- **QuickShop**
-  E-commerce app with product listings, authentication, a shopping cart, and Redux Toolkit state management. Deployed on Vercel.<br>
-  *Stack: React, Redux Toolkit, Tailwind CSS*
+`React` `Node.js` `Express.js` `MongoDB` `Shopify` `AI APIs`
 
-- **[LMS Website](https://github.com/gullsnobar/LMS-Website)**
-  Responsive learning management website.<br>
-  *Stack: React*
+---
+
+### [Healio](https://github.com/gullsnobar/Healio)
+
+**Medication Reminder & Fitness Tracker**
+
+Final Year Project — a cross-platform health management application combining medication reminders, fitness tracking, appointments, and AI-powered health insights.
+
+`React Native` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI` `Gemini API`
+
+---
+
+### Multivendor E-Commerce Platform
+
+**Full-Stack MERN Marketplace**
+
+Built a multi-role marketplace supporting customers, sellers, and administrators with product management, orders, payments, authentication, and real-time seller communication.
+
+`React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Stripe` `PayPal`
+
+---
+
+### [QuickShop](https://github.com/gullsnobar/QuickShop)
+
+**React E-Commerce Application**
+
+Responsive e-commerce application demonstrating product browsing, authentication, routing, shopping cart management, and global state handling.
+
+`React` `Redux Toolkit` `Tailwind CSS` `Vite`
 
 ---
 
 ## Currently Learning
 
-- Docker and CI/CD in more depth
-- Cloud deployment
-- System design
-- AI engineering
-- Open-source development
-
-**Open source:** I am interested in GSoC and LFX. I am learning how open-source projects work and preparing to contribute.
+* **Open Source Development** and contribution workflows
+* **DevOps** and reliable deployment practices
+* **CI/CD** with automated build, test, and deployment workflows
+* **LLMs, RAG, and AI application development**
+* **Backend architecture and scalable application design**
 
 ---
 
 ## GitHub Activity
 
-563 contributions in the last year. The full contribution graph is shown on this profile below the README.
+<div align="center">
 
-<p>
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=768390&icon_color=2f81f7" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=768390" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=gullsnobar&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8CC9&icon_color=4F8CC9&text_color=9f9f9f&include_all_commits=true" height="165" alt="GitHub Stats"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gullsnobar&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gullsnobar&hide_border=true&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&area_color=0969da" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gullsnobar&hide_border=true&background=00000000&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&sideLabels=9f9f9f&currStreakNum=4F8CC9&sideNums=9f9f9f&dates=9f9f9f" height="165" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gullsnobar&bg_color=00000000&color=4F8CC9&line=4F8CC9&point=4F8CC9&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
-## Connect
+## Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-username) · [Email](mailto:your-email@example.com)
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=gullsnobar&label=Profile+views&color=0e75b6&style=flat)
+<a href="https://www.linkedin.com/in/gullsanobar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gullsnobar07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://drive.google.com/file/d/1CspY9yO3z3iFPxfoew6i8j_TEELanFmX/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
+
+</div>
