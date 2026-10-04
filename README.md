@@ -8,22 +8,24 @@
 
 ### Associate Software Engineer · Full-Stack Developer · AI & SaaS
 
-Building practical web applications, AI-powered products, and reliable software with modern full-stack technologies.
+Building **full-stack web applications and AI-powered products** with modern engineering practices.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gullsnobar&label=PROFILE+VIEWS&color=4F8CC9&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=gullsnobar&label=PROFILE+VIEWS&color=4F8CC9&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/gullsanobar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:gullsnobar07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;
 <a href="https://drive.google.com/file/d/1CspY9yO3z3iFPxfoew6i8j_TEELanFmX/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
+<img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
 </div>
@@ -32,45 +34,55 @@ Building practical web applications, AI-powered products, and reliable software 
 
 ## About Me
 
-I'm an **Associate Software Engineer** with around **1 year of professional experience**, focused on full-stack web development and AI-powered applications.
+I'm an **Associate Software Engineer** with around **1 year of professional experience** building full-stack web applications and AI-powered products.
 
-I work primarily with the **MERN stack** and have hands-on experience building APIs, integrating third-party services, working with databases, testing applications, and deploying software with Docker.
+My core experience is in the **MERN stack**, with hands-on experience in APIs, databases, authentication, testing, third-party integrations, and Docker-based deployments.
 
-I'm also expanding into **DevOps, CI/CD, LLMs, and AI engineering**, with recent hands-on learning in prompt engineering, LLM concepts, RAG, and AI integrations.
+I've also worked with **Python, PostgreSQL, AdonisJS, CI/CD**, and modern development workflows. Recently, I've been expanding my knowledge of **LLMs, RAG, prompt engineering, and AI application development**.
 
-Currently, I'm interested in building reliable software and contributing to **open-source projects** where I can learn from experienced developers and contribute meaningful work.
+I'm interested in **open-source development, scalable software, AI-powered products, and continuous engineering growth**.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-### Languages
-
-`JavaScript` `TypeScript` `Python` `HTML` `CSS`
+<div align="center">
 
 ### Frontend
 
-`React.js` `Next.js` `React Native` `Redux Toolkit` `Tailwind CSS` `Vite`
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,redux,tailwind,vite&perline=10" />
+</a>
 
-### Backend
+<br/><br/>
 
-`Node.js` `Express.js` `AdonisJS` `REST APIs`
+### Backend & Databases
 
-### Databases
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,express,adonis,mongodb,postgres,supabase&perline=6" />
+</a>
 
-`MongoDB` `PostgreSQL` `Supabase`
+<br/><br/>
 
 ### AI & LLM
 
-`LLM Fundamentals` `Prompt Engineering` `RAG` `AI APIs` `Gemini API` `AI Integrations`
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,fastapi&perline=6" />
+</a>
 
-### DevOps & Engineering
+<br/>
 
-`Docker` `CI/CD` `Git` `GitHub` `GitHub Actions` `Testing` `Postman`
+`LLMs` · `Prompt Engineering` · `RAG` · `AI APIs` · `AI Integrations`
 
-### Tools & Platforms
+<br/><br/>
 
-`Figma` `Jira` `Firebase` `Vercel` `Render` `Netlify`
+### DevOps & Tools
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,vscode,figma,jira&perline=8" />
+</a>
+
+</div>
 
 ---
 
@@ -80,9 +92,9 @@ Currently, I'm interested in building reliable software and contributing to **op
 
 **AI Creative SaaS for Shopify**
 
-AI-powered SaaS application built for Shopify merchants, combining AI content generation and e-commerce workflows into one platform.
+AI-powered SaaS application built for Shopify merchants, combining AI content generation with e-commerce workflows.
 
-`React` `Node.js` `Express.js` `MongoDB` `Shopify` `AI APIs`
+`React` `Node.js` `Express.js` `MongoDB` `Shopify` `AI`
 
 ---
 
@@ -90,9 +102,9 @@ AI-powered SaaS application built for Shopify merchants, combining AI content ge
 
 **Medication Reminder & Fitness Tracker**
 
-Final Year Project — a cross-platform health management application combining medication reminders, fitness tracking, appointments, and AI-powered health insights.
+Final Year Project focused on medication management, appointments, fitness tracking, and AI-powered health insights.
 
-`React Native` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI` `Gemini API`
+`React Native` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI` `Gemini`
 
 ---
 
@@ -100,7 +112,7 @@ Final Year Project — a cross-platform health management application combining 
 
 **Full-Stack MERN Marketplace**
 
-Built a multi-role marketplace supporting customers, sellers, and administrators with product management, orders, payments, authentication, and real-time seller communication.
+Multi-role marketplace supporting customers, sellers, and administrators with product management, orders, payments, authentication, and real-time communication.
 
 `React` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Stripe` `PayPal`
 
@@ -110,7 +122,7 @@ Built a multi-role marketplace supporting customers, sellers, and administrators
 
 **React E-Commerce Application**
 
-Responsive e-commerce application demonstrating product browsing, authentication, routing, shopping cart management, and global state handling.
+Responsive e-commerce application with product browsing, authentication, routing, cart management, and global state handling.
 
 `React` `Redux Toolkit` `Tailwind CSS` `Vite`
 
@@ -120,9 +132,9 @@ Responsive e-commerce application demonstrating product browsing, authentication
 
 * **Open Source Development** and contribution workflows
 * **DevOps** and reliable deployment practices
-* **CI/CD** with automated build, test, and deployment workflows
+* **CI/CD** and automated development workflows
 * **LLMs, RAG, and AI application development**
-* **Backend architecture and scalable application design**
+* **Backend architecture and scalable software design**
 
 ---
 
@@ -146,18 +158,32 @@ Responsive e-commerce application demonstrating product browsing, authentication
 
 ---
 
-## Let's Connect
+## 563 contributions in the last year
+
+<div align="center">
+
+<!-- GitHub contribution history — keep this section unchanged -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gullsnobar&bg_color=00000000&color=4F8CC9&line=4F8CC9&point=4F8CC9&area=true&hide_border=true" width="95%" alt="Contribution History"/>
+
+</div>
+
+---
+
+## Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gullsanobar/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:gullsnobar07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+&nbsp;
 <a href="https://drive.google.com/file/d/1CspY9yO3z3iFPxfoew6i8j_TEELanFmX/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
 </div>
