@@ -1,13 +1,17 @@
-# Gull Snobar
+<!-- Profile README -->
 
 <div align="center">
 
-### Associate Software Engineer | Full-Stack Developer | AI & SaaS
+<img src="https://raw.githubusercontent.com/gullsnobar/gullsnobar/main/snobar.png" alt="Gull Snobar Banner" width="100%"/>
 
-Building practical, scalable web applications with **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Python, and Docker**.
+# Gull Snobar
+
+### Associate Software Engineer · Full-Stack Developer · AI & SaaS
+
+Building practical, reliable web applications with **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Python, and Docker**.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gullsnobar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gullsnobar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p>
@@ -16,9 +20,6 @@ Building practical, scalable web applications with **React, Next.js, Node.js, Ex
   </a>
   <a href="mailto:gullsnobar07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/gullsnobar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://drive.google.com/file/d/1CspY9yO3z3iFPxfoew6i8j_TEELanFmX/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" alt="Resume"/>
@@ -29,28 +30,28 @@ Building practical, scalable web applications with **React, Next.js, Node.js, Ex
 
 ---
 
-## About Me
+## About
 
 I’m an **Associate Software Engineer** with **1 year of professional experience** building full-stack web applications and AI-powered products.
 
-* 💻 Strong foundation in **MERN stack development** and modern React applications.
-* ⚙️ Experienced in **REST APIs, authentication, databases, testing, and third-party integrations**.
-* 🤖 Exploring **AI integrations, prompt engineering, RAG, and AI-powered SaaS applications**.
-* 🐳 Working with **Docker, CI/CD, and deployment workflows** while expanding my DevOps knowledge.
-* 🚀 Interested in building **reliable products and contributing to open-source projects**.
+* Build frontend applications with **React and Next.js**
+* Develop backend services and REST APIs with **Node.js, Express.js, and AdonisJS**
+* Work with **MongoDB and PostgreSQL** for application data
+* Implement **authentication, APIs, testing, and third-party integrations**
+* Build and deploy applications using **Docker and CI/CD workflows**
+* Explore **AI integrations, LLMs, prompt engineering, and RAG**
+* Currently expanding my knowledge of **DevOps, system design, and open-source development**
 
 ---
 
-## Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+## Technical Skills
 
 ### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
@@ -61,33 +62,34 @@ I’m an **Associate Software Engineer** with **1 year of professional experienc
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat\&logo=adonisjs\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
-### Engineering & Tools
+### DevOps & Engineering
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat\&logo=jest\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
-### AI & Developer Tools
+### AI & LLM
 
-**AI Integration** · **Prompt Engineering** · **RAG** · **Claude** · **Cursor** · **Windsurf** · **Lovable** · **Replit**
+**AI Integration** · **LLM Fundamentals** · **Prompt Engineering** · **RAG** · **AI APIs**
 
 ---
 
 ## Featured Projects
 
-| Project                                                              | Description                                                                         | Stack                             |
+| Project                                                              | Description                                                                         | Technologies                      |
 | :------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------------- |
-| **[OmniCat](https://github.com/gullsnobar/OmniCat)**                 | AI-powered creative SaaS for Shopify merchants                                      | `AI` `SaaS` `Shopify`             |
-| **[Healio](https://github.com/gullsnobar/Healio)**                   | Health management app with AI insights, medication tracking, and fitness features   | `React Native` `Node.js` `Python` |
+| **[OmniCat](https://github.com/gullsnobar/OmniCat)**                 | AI-powered creative SaaS application for Shopify merchants                          | `AI` `SaaS` `Shopify`             |
+| **[Healio](https://github.com/gullsnobar/Healio)**                   | Health management app combining medication, fitness, and AI features                | `React Native` `Node.js` `Python` |
 | **[QuickShop](https://github.com/gullsnobar/QuickShop)**             | Responsive e-commerce application with authentication, cart, and product management | `React` `Redux` `Tailwind`        |
 | **[LMS Website](https://github.com/gullsnobar/LMS-Website)**         | Responsive learning management website built with React                             | `React` `JavaScript` `CSS`        |
-| **[React Movie App](https://github.com/gullsnobar/React-Movie-App)** | Movie discovery application using external API integration                          | `React` `API`                     |
+| **[React Movie App](https://github.com/gullsnobar/React-Movie-App)** | React application using external API integration for movie data                     | `React` `API` `JavaScript`        |
 
 ---
 
@@ -95,13 +97,23 @@ I’m an **Associate Software Engineer** with **1 year of professional experienc
 
 ```text
 Full-Stack Development
-├── Frontend        → React, Next.js, React Native
-├── Backend         → Node.js, Express.js, REST APIs
-├── Databases       → MongoDB, PostgreSQL
-├── AI              → AI APIs, Prompt Engineering, RAG
-├── DevOps          → Docker, CI/CD, Deployment
-└── Engineering     → Testing, Authentication, Git, APIs
+├── Frontend       → React · Next.js · React Native
+├── Backend        → Node.js · Express.js · AdonisJS · REST APIs
+├── Databases      → MongoDB · PostgreSQL
+├── AI             → LLMs · AI APIs · Prompt Engineering · RAG
+├── DevOps         → Docker · CI/CD · Deployment
+└── Engineering    → Testing · Authentication · Git · APIs
 ```
+
+---
+
+## Currently Learning
+
+* **DevOps & CI/CD**
+* **System Design**
+* **AI Engineering & LLMs**
+* **Open Source Development**
+* **Cloud & Deployment**
 
 ---
 
@@ -117,7 +129,7 @@ Full-Stack Development
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullsnobar&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
@@ -127,17 +139,7 @@ Full-Stack Development
 
 ---
 
-## Currently Learning
-
-* **Open Source Development & Collaboration**
-* **DevOps and CI/CD**
-* **Cloud Deployment**
-* **AI Engineering and RAG**
-* **System Design and Scalable Architecture**
-
----
-
-## Let's Connect
+## Connect
 
 <div align="center">
 
