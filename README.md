@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Associate Software Engineer | Full-Stack Developer | AI & SaaS
+### Software Engineer | Full-Stack Developer | AI & SaaS
 
 Building practical, scalable web applications with **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Python, and Docker**.
 
